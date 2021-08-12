@@ -8,6 +8,8 @@
 - 📩 mail me: [i@potat0.cc](mailto:i@potat0.cc)
 - 🏠 visit my blog: [https://potat0.cc](https://potat0.cc).
 
+In case you need my GPG key: `0x1153DB02`
+
 ### Here are my skills
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)

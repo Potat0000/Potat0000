@@ -1,6 +1,14 @@
 # Hi! You are here!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true" />
+<a href="https://github.com/Potat0000#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/Potat0000#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&theme=dark" alt="My GitHub Stats" />
+</a>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### About me
 - 🌱 focus on Reverse.

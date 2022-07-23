@@ -11,12 +11,14 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### About me
-- 🌱 focus on Reverse.
+- 🌱 focus on networking.
 - 👯 [@Vidar-Team](https://vidar.club)
 - 📩 mail me: [i@potat0.cc](mailto:i@potat0.cc)
 - 🏠 visit my blog: [https://potat0.cc](https://potat0.cc).
 
 In case you need my GPG key: `0x1153DB02`
+
+Always welcome to peer me in DN42. Please visit https://dn42.potat0.cc/ for more information.
 
 ### Here are my skills
 

@@ -16,7 +16,7 @@
 - 📩 mail me: [i@potat0.cc](mailto:i@potat0.cc)
 - 🏠 visit my blog: [https://potat0.cc](https://potat0.cc).
 
-In case you need my GPG key: `0x1153DB02`
+In case you need my GPG key: [`0xC0DE1816`](https://keys.openpgp.org/vks/v1/by-fingerprint/CA9E8A392634582FD69E113E21975858C0DE1816) (Code 1816)
 
 Always welcome to peer me in DN42. Please visit https://dn42.potat0.cc/ for more information.
 

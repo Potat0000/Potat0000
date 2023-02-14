@@ -18,7 +18,11 @@
 
 In case you need my GPG key: [`0xC0DE1816`](https://keys.openpgp.org/vks/v1/by-fingerprint/CA9E8A392634582FD69E113E21975858C0DE1816) (Code 1816)
 
-Always welcome to peer me in DN42. Please visit https://dn42.potat0.cc/ for more information.
+### Networking
+
+I currently operate Potat0 Network (AS200078). Please visit https://dn42.potat0.cc/ for more information.
+
+Always welcome to peer me in DN42. Please visit https://net.potat0.cc/ for more information.
 
 ### Here are my skills
 

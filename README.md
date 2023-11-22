@@ -20,9 +20,9 @@ In case you need my GPG key: [`0xC0DE1816`](https://keys.openpgp.org/vks/v1/by-f
 
 ### Networking
 
-I currently operate Potat0 Network (AS200078). Please visit https://dn42.potat0.cc/ for more information.
+I currently operate Potat0 Network (AS200078). Please visit https://net.potat0.cc/ for more information.
 
-Always welcome to peer me in DN42. Please visit https://net.potat0.cc/ for more information.
+Always welcome to peer me in DN42. Please visit https://dn42.potat0.cc/ for more information.
 
 ### Here are my skills
 

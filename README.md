@@ -1,15 +1,15 @@
 # Hi! You are here!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&rank_icon=github&theme=vue#gh-light-mode-only)](https://github.com/Potat0000#gh-light-mode-only)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&rank_icon=github&theme=vue-dark#gh-dark-mode-only)](https://github.com/Potat0000#gh-dark-mode-only)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&rank_icon=github&theme=vue#gh-light-mode-only)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&rank_icon=github&theme=vue-dark#gh-dark-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### About me
 - 🌱 focus on networking.
 - 👯 [@Vidar-Team](https://vidar.club)
-- 📩 mail me: [i@potat0.cc](mailto:i@potat0.cc)
+- 📩 mail me: [github+public@potat0.cc](mailto:github+public@potat0.cc)
 - 🏠 visit my blog: [https://potat0.cc](https://potat0.cc).
 
 In case you need my GPG key: [`0xC0DE1816`](https://keys.openpgp.org/vks/v1/by-fingerprint/CA9E8A392634582FD69E113E21975858C0DE1816) (Code 1816)

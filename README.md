@@ -1,11 +1,7 @@
 # Hi! You are here!
 
-<a href="https://github.com/Potat0000#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&theme=vue" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/Potat0000#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&theme=vue-dark" alt="My GitHub Stats" />
-</a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&rank_icon=github&theme=vue#gh-light-mode-only)](https://github.com/Potat0000#gh-light-mode-only)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potat0000&show_icons=true&hide_border=true&rank_icon=github&theme=vue-dark#gh-dark-mode-only)](https://github.com/Potat0000#gh-dark-mode-only)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Potat0000/Potat0000/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -33,6 +29,6 @@ Always welcome to peer me in DN42. Please visit https://dn42.potat0.cc/ for more
 
 ### Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Potat000000000)
-[![GMail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@potat0.cc)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Potat00000)
+[![GMail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:github+public@potat0.cc)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Potat0000)

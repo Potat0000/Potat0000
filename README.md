@@ -10,7 +10,7 @@
 - 🌱 focus on networking.
 - 👯 [@Vidar-Team](https://vidar.club)
 - 📩 mail me: [github+public@potat0.cc](mailto:github+public@potat0.cc)
-- 🏠 visit my blog: [https://potat0.cc](https://potat0.cc).
+- 🏠 visit my blog: [https://www.potat0.cc](https://www.potat0.cc).
 
 In case you need my GPG key: [`0xC0DE1816`](https://keys.openpgp.org/vks/v1/by-fingerprint/CA9E8A392634582FD69E113E21975858C0DE1816) (Code 1816)
 
